@@ -30,3 +30,9 @@ For serving static files from the current directory:
     cd statico
     go build statico.go
     mv statico /usr/bin
+
+## License
+
+`statico` is MIT licensed. See [LICENSE.md][1].
+
+[1]: https://github.com/vaidik/statico/blob/master/LICENSE.md
