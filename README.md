@@ -27,5 +27,6 @@ For serving static files from the current directory:
 ## Installation
 
     git clone https://github.com/vaidik/statico.git
+    cd statico
     go build statico.go
     mv statico /usr/bin
